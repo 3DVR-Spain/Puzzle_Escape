@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "",
+	"EngineAssociation": "{E0836853-48B6-5F57-A359-6C9357BD2EB7}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -11,5 +11,5 @@
 				"Editor"
 			]
 		}
-	]	
+	]
 }
